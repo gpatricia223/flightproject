@@ -1,0 +1,4 @@
+node_modules
+.env
+dist/main.js
+dist/main.js.map
